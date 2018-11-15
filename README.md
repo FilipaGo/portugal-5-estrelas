@@ -19,3 +19,5 @@ In this project **I handled the interaction design, user interface design (for i
 ***
 
 👉 **Checkout 5 Estrelas’ InVision prototype here** — https://filipago.github.io/portugal-5-estrelas/
+
+Full case study coming soon 🚧
