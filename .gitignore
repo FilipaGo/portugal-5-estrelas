@@ -1,9 +1,9 @@
 .DS_Store
 *.sketch
 *.docx
-*overflow/.psd
-*overflow/overflow_2000_x2.gif
-*overflow/overflow_2000.gif
-*overflow/overflow_2880.mp4
-*overflow/overflow_2000_speedx2.mp4
-*overflow/overflow.mov
+*overflow/**/.psd
+*overflow/**/overflow_2000_x2.gif
+*overflow/**/overflow_2000.gif
+*overflow/**/overflow_2880.mp4
+*overflow/**/overflow_2000_speedx2.mp4
+*overflow/**/overflow.mov
