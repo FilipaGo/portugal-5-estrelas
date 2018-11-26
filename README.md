@@ -76,6 +76,7 @@ This also helped stakeholders “see” the app before I got to the visual desig
 
 The high-fidelity wireframes let me work through many design details before getting into the visual design and helped stakeholders provide more constructive feedback during design reviews.
 
+</br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/portugal-5-estrelas/master/_images_readme/overflow/overflow_2000_x2_nth4.gif" alt="Animated gif showing part of the wireflows inside Overflow software" width="1000">
 5 Estrelas’ wireflows in Overflow.
