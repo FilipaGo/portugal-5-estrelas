@@ -62,6 +62,44 @@ The insights gathered during the interviews were crucial for setting up the base
 
 Even though the product was fairly simple, visualising its whole structure early on was very important to clearly scope the MVP.
 
+## Step 3 — Wireflows
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/portugal-5-estrelas/master/_images_readme/wireflows.jpg" alt="5 Estrelas’ Wireflows’ details" width="1000">
+Part of the 5 Estrelas’ Wireflows.
+<br></br>
+</p>
+
+I designed high-fidelity wireflows with real content to clearly show how the screens would flow and fit together in the final product.
+
+This also helped stakeholders “see” the app before I got to the visual design stage, saving them a lot of time and money (time and budget constraints were tight for this project).
+
+The high-fidelity wireframes let me work through many design details before getting into the visual design and helped stakeholders provide more constructive feedback during design reviews.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/portugal-5-estrelas/master/_images_readme/overflow/overflow_2000_x2_nth4.gif" alt="Animated gif showing part of the wireflows inside Overflow software" width="1000">
+5 Estrelas’ wireflows in Overflow.
+<br></br>
+</p>
+
+Overflow was my tool of choice to present the wireflows to the client in a more realistic and engaging way; almost like telling a story.
+
+I worked with several boards to minimize the complexity of the diagrams: a complete user flow that illustrates all the product’s flows and smaller, more digestible diagrams, that refer to specific sub-flows and therefore are easier to read.
+
+You can [check all the wireflows here](https://overflow.io/s/83A4JH/ "Overflow diagrams").
+
+## Step 4 — Style Guides
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/portugal-5-estrelas/master/_images_readme/style-guides.jpg" alt="5 Estrelas’ Style Guides details" width="1000">
+Just a small part of the style guides I worked on.
+<br></br>
+</p>
+
+Before jumping into the mockups I designed style guides to make sure things were kept consistent throughout the design and development phases.
+
+I used Sketch to build a large and flexible symbols library to guide the whole team. (🙏🏻 nested symbols…)
+
 ***
 
 Full case study coming soon 🚧
