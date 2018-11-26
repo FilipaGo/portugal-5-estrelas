@@ -58,7 +58,7 @@ Information Architecture detail.
 <br></br>
 </p>
 
-The insights gathered during the interviews were crucial for setting up the base [information architecture](https://github.com/FilipaGo/portugal-5-estrelas/raw/master/_docs_readme/information-architecture.png “Download the information architecture”) that guided my work throughout this project.
+The insights gathered during the interviews were crucial for setting up the base [information architecture](https://github.com/FilipaGo/portugal-5-estrelas/raw/master/_docs_readme/information-architecture.png "Download the information architecture") that guided my work throughout this project.
 
 Even though the product was fairly simple, visualising its whole structure early on was very important to clearly scope the MVP.
 
