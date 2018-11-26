@@ -50,4 +50,18 @@ Product detail screens’ data by category.
 
 From that list, we established which data should be presented for each type of product (by category). You can [check the “templates” here]( https://github.com/FilipaGo/portugal-5-estrelas/raw/master/_docs_readme/info_product-detail.xlsx).
 
+## Step 2 — Information Architecture
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/portugal-5-estrelas/master/_images_readme/information-architecture.jpg" alt="Information Architecture detail" width="1000">
+Information Architecture detail.
+<br></br>
+</p>
+
+The insights gathered during the interviews were crucial for setting up the base [information architecture](https://github.com/FilipaGo/portugal-5-estrelas/raw/master/_docs_readme/information-architecture.png “Download the information architecture”) that guided my work throughout this project.
+
+Even though the product was fairly simple, visualising its whole structure early on was very important to clearly scope the MVP.
+
+***
+
 Full case study coming soon 🚧
