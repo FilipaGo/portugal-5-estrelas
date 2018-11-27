@@ -117,6 +117,20 @@ Due to budget constraints, some parts of the wireflows ended up being excluded f
 
 For the sake of organization, I was very careful when naming artboards and layers, trying to be descriptive and grouping elements together by common UI features. Not only because this would later help me build the prototype faster but above all because it would help developers analyse and understand the design more easily.
 
+## Step 6 — Interactive Prototype
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/portugal-5-estrelas/master/_images_readme/prototype.jpg" alt="InVision screenshot showing the prototype in inspect mode" width="1000">
+Prototype in “inspect mode”.
+<br></br>
+</p>
+
+Prototyping was key to demonstrate the product’s behaviour and a great vehicle to communicate the UI design to the development team.
+
+I chose InVision to build the prototype not only because it allowed me to quickly link the app’s screens together but also due to its “inspect mode” which is invaluable for development.
+
+👉 **Check out 5 Estrelas’ InVision prototype here** — https://filipago.github.io/portugal-5-estrelas/
+
 ***
 
 Full case study coming soon 🚧
