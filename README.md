@@ -101,6 +101,22 @@ Before jumping into the mockups I designed style guides to make sure things were
 
 I used Sketch to build a large and flexible symbols library to guide the whole team. (🙏🏻 nested symbols…)
 
+## Step 5 — Visual and User Interface Design
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/portugal-5-estrelas/master/_images_readme/mockups.jpg" alt="5 Estrelas Mockups’ details" width="1000">
+Some 5 Estrelas Mockups.
+<br></br>
+</p>
+
+During mockups phase, I fine-tuned every element in the design and added a couple of things I noticed were missing in the wireflows.
+
+The realistic high-fidelity mockups really helped stakeholders more easily see the final product in a way closer to the real thing and thus provide more valuable feedback for quick revisions.
+
+Due to budget constraints, some parts of the wireflows ended up being excluded from the MVP, like adding a 5 Estrelas Club Card.
+
+For the sake of organization, I was very careful when naming artboards and layers, trying to be descriptive and grouping elements together by common UI features. Not only because this would later help me build the prototype faster but above all because it would help developers analyse and understand the design more easily.
+
 ***
 
 Full case study coming soon 🚧
