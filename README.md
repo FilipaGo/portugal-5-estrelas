@@ -131,6 +131,28 @@ I chose InVision to build the prototype not only because it allowed me to quickl
 
 👉 **Check out 5 Estrelas’ InVision prototype here** — https://filipago.github.io/portugal-5-estrelas/
 
-***
+## Step 7 — Developer Handoff
 
-Full case study coming soon 🚧
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/portugal-5-estrelas/master/_images_readme/document.jpg" alt="Documented Sketch file" width="1000">
+Documented Sketch file.
+<br></br>
+</p>
+
+Before handing over the project to the development team I documented the whole design to assure a smooth delivery that minimized errors and misunderstandings to the max.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/portugal-5-estrelas/master/_images_readme/assets.jpg" alt="Icons Illustrator file" width="1000">
+Icons reference file.
+<br></br>
+</p>
+
+I exported the full range of assets and organized them in folders by type (illustrations, icons, photos) and element (categories, tab bar, toolbar, menu…), and prepared an Illustrator file with the whole set of assets to serve as a reference.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/portugal-5-estrelas/master/_images_readme/copy.jpg" alt="Copy reference in Excel" width="1000">
+Copy matches.
+<br></br>
+</p>
+
+Finally, I prepared a table with the full copy, in Portuguese and English, organized by screen.
