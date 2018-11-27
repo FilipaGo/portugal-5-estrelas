@@ -6,6 +6,19 @@ Left to right: Entry Screen, Part of the Onboarding, Home and Product detail (Po
 <br></br>
 </p>
 
+📖 <i>`Estimated reading time: 4 minutes (957 words)`</i>
+
+**Table of Contents**
+
+* [Summary](https://github.com/FilipaGo/portugal-5-estrelas/blob/master/README.md#summary)</br>
+* [Step 1 — Stakeholder Interview](https://github.com/FilipaGo/portugal-5-estrelas/blob/master/README.md#step-1--stakeholder-interview)</br>
+* [Step 2 — Information Architecture](https://github.com/FilipaGo/portugal-5-estrelas/blob/master/README.md#step-2--information-architecture)</br>
+* [Step 3 — Wireflows](https://github.com/FilipaGo/portugal-5-estrelas/blob/master/README.md#step-3--wireflows)</br>
+* [Step 4 — Style Guides](https://github.com/FilipaGo/portugal-5-estrelas/blob/master/README.md#step-4--style-guides)</br>
+* [Step 5 — Visual and User Interface Design](https://github.com/FilipaGo/portugal-5-estrelas/blob/master/README.md#step-5--visual-and-user-interface-design)</br>
+* [Step 6 — Interactive Prototype](https://github.com/FilipaGo/portugal-5-estrelas/blob/master/README.md#step-6--interactive-prototype)</br>
+* [Step 7 — Developer Handoff](https://github.com/FilipaGo/portugal-5-estrelas/blob/master/README.md#step-7--developer-handoff)</br>
+
 ## Summary
 
 5 Estrelas (Five Stars) is a mobile app that lets users get to **know Portugal Cinco Estrelas’ prize winners (Five Stars Portugal) per region and typology**, as well as take advantage of exclusive discounts from several Cinco Estrelas’ brands.
@@ -14,11 +27,11 @@ Portugal Cinco Estrelas is a system that measures the consumers’ satisfaction 
 
 The 5 Estrelas app showcases the most relevant national icons in terms of natural resources, monuments, gastronomy and so on, elected through a survey by the Portuguese people and a strict expert evaluation. Thus, the app helps high-quality Portugal Cinco Estrelas’ winners reach a broader audience.
 
-In this project **I handled the interaction design, user interface design (for iOS), prototyping, developer handoff** and quality assessment.
+In this project, **I handled the interaction design, user interface design (for iOS), prototyping, developer handoff** and quality assessment.
 
 ***
 
-👉 **Checkout 5 Estrelas’ InVision prototype here** — https://filipago.github.io/portugal-5-estrelas/
+👉 **Check out 5 Estrelas’ InVision prototype here** — https://filipago.github.io/portugal-5-estrelas/
 
 ## Step 1 — Stakeholder Interview
 
