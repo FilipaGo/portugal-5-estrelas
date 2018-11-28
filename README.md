@@ -180,3 +180,5 @@ Finally, I prepared a table with the full copy, in Portuguese and English, organ
 * Allow users to rate products/services;
 * Add a comment system;
 * Provide suggestions based on the users’ favourite products/services (“If you liked this you may also like that”)
+
+<p align="center">👋 Thanks for reading!</p>
