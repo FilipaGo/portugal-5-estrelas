@@ -6,7 +6,7 @@ Left to right: Entry Screen, Part of the Onboarding, Home and Product detail (Po
 <br></br>
 </p>
 
-📖 <i>`Estimated reading time: 4 minutes (957 words)`</i>
+📖 <i>`Estimated reading time: 4 minutes (1013 words)`</i>
 
 **Table of Contents**
 
@@ -18,6 +18,7 @@ Left to right: Entry Screen, Part of the Onboarding, Home and Product detail (Po
 * [Step 5 — Visual and User Interface Design](https://github.com/FilipaGo/portugal-5-estrelas/blob/master/README.md#step-5--visual-and-user-interface-design)</br>
 * [Step 6 — Interactive Prototype](https://github.com/FilipaGo/portugal-5-estrelas/blob/master/README.md#step-6--interactive-prototype)</br>
 * [Step 7 — Developer Handoff](https://github.com/FilipaGo/portugal-5-estrelas/blob/master/README.md#step-7--developer-handoff)</br>
+* [Next Steps](https://github.com/FilipaGo/portugal-5-estrelas#next-steps)</br>
 
 ## Summary
 
