@@ -169,3 +169,13 @@ Copy matches.
 </p>
 
 Finally, I prepared a table with the full copy, in Portuguese and English, organized by screen.
+
+# Next Steps
+
+* Improve the search feature, such as:
+  * Search by product/service name;
+  * Search by category.
+* Allow users to add their Cinco Estrelas Club member’s card;
+* Allow users to rate products/services;
+* Add a comment system;
+* Provide suggestions based on the users’ favourite products/services (“If you liked this you may also like that”)
