@@ -11,7 +11,7 @@ Left to right: Entry Screen, Part of the Onboarding, Home and Product detail (Po
 **Table of Contents**
 
 * [Summary](https://github.com/FilipaGo/portugal-5-estrelas/blob/master/README.md#summary)</br>
-* [Step 1 — Stakeholder Interview](https://github.com/FilipaGo/portugal-5-estrelas/blob/master/README.md#step-1--stakeholder-interviews)</br>
+* [Step 1 — Stakeholder Interviews](https://github.com/FilipaGo/portugal-5-estrelas/blob/master/README.md#step-1--stakeholder-interviews)</br>
 * [Step 2 — Information Architecture](https://github.com/FilipaGo/portugal-5-estrelas/blob/master/README.md#step-2--information-architecture)</br>
 * [Step 3 — Wireflows](https://github.com/FilipaGo/portugal-5-estrelas/blob/master/README.md#step-3--wireflows)</br>
 * [Step 4 — Style Guides](https://github.com/FilipaGo/portugal-5-estrelas/blob/master/README.md#step-4--style-guides)</br>
