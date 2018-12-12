@@ -11,7 +11,7 @@ Left to right: Entry Screen, Part of the Onboarding, Home and Product detail (Po
 **Table of Contents**
 
 * [Summary](https://github.com/FilipaGo/portugal-5-estrelas/blob/master/README.md#summary)</br>
-* [Step 1 — Stakeholder Interview](https://github.com/FilipaGo/portugal-5-estrelas/blob/master/README.md#step-1--stakeholder-interview)</br>
+* [Step 1 — Stakeholder Interview](https://github.com/FilipaGo/portugal-5-estrelas/blob/master/README.md#step-1--stakeholder-interviews)</br>
 * [Step 2 — Information Architecture](https://github.com/FilipaGo/portugal-5-estrelas/blob/master/README.md#step-2--information-architecture)</br>
 * [Step 3 — Wireflows](https://github.com/FilipaGo/portugal-5-estrelas/blob/master/README.md#step-3--wireflows)</br>
 * [Step 4 — Style Guides](https://github.com/FilipaGo/portugal-5-estrelas/blob/master/README.md#step-4--style-guides)</br>
@@ -34,7 +34,7 @@ In this project, **I handled the interaction design, user interface design (for 
 
 👉 **Check out 5 Estrelas’ InVision prototype here** — https://filipago.github.io/portugal-5-estrelas/
 
-## Step 1 — Stakeholder Interview
+## Step 1 — Stakeholder Interviews
 
 The stakeholder interviews were the first step I took for gathering information about the product I would be working on. These were vital for understanding the clients’ goals and expectations and served as a starting point for further actions.
 
